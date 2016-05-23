@@ -1,4 +1,4 @@
-use super::super::interconnect;
+use interconnect;
 use super::cp0;
 use super::opcode::Opcode::*;
 use super::opcode::SpecialOpcode::*;

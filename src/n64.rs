@@ -1,5 +1,5 @@
-use super::cpu;
-use super::interconnect;
+use cpu;
+use interconnect;
 
 #[derive(Debug)]
 pub struct N64 {
